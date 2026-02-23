@@ -24,8 +24,6 @@ EXTRA_CFLAGS += -Wno-format-truncation
 EXTRA_CFLAGS += -Wno-stringop-truncation
 EXTRA_CFLAGS += -Wno-switch-unreachable
 EXTRA_CFLAGS += -Wno-error=switch-unreachable
-EXTRA_CFLAGS += -Wno-wswitch-unreachable
-EXTRA_CFLAGS += -Wno-error=wswitch-unreachable
 
 EXTRA_CFLAGS += -Wno-error=array-bounds
 EXTRA_CFLAGS += -Wno-error=stringop-overflow
